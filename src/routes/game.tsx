@@ -59,7 +59,7 @@ export function Game(props: { id: string }) {
     >
       <div className="lg min-h-32 relative my-16 w-full bg-bg-secondary shadow-md">
         <div className="absolute flex h-full w-full items-center justify-center">
-          Please consider turning off your Ad Blocker to support Radon Games
+          Please consider turning off your Ad Blocker to support Vboi's Games
         </div>
         <ins
           key="abovegame"
@@ -139,7 +139,7 @@ export function Game(props: { id: string }) {
       </div>
       <div className="lg min-h-32 relative my-16 w-full bg-bg-secondary shadow-md">
         <div className="absolute flex h-full w-full items-center justify-center">
-          Please consider turning off your Ad Blocker to support Radon Games
+          Please consider turning off your Ad Blocker to support Vboi's Games
         </div>
         <ins
           key="abovegame"
