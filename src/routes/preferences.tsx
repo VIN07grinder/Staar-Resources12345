@@ -45,12 +45,12 @@ export function Preferences() {
               class="rounded-md border border-text-secondary bg-bg-secondary px-2 py-1 text-sm focus:outline-0"
               onChange={(e) => {
                 const title =
-                  (e.target as HTMLInputElement).value.trim() || "Radon Games";
+                  (e.target as HTMLInputElement).value.trim() || "Vboi's Games";
 
                 document.title = title;
                 localStorage.setItem("title", title);
               }}
-              value={localStorage.getItem("title")?.trim() || "Radon Games"}
+              value={localStorage.getItem("title")?.trim() || "Vboi's Games"}
             ></input>
           </div>
           <div class="flex flex-col items-center gap-2">
