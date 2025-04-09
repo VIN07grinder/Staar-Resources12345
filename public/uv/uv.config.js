@@ -7,7 +7,6 @@ self.__uv$config = {
     `https://uv.${apexHost}/bare1/`,
     `https://uv.${apexHost}/bare2/`,
     `https://uv.${apexHost}/bare3/`,
-    `https://uv.${apexHost}/bare3/`
   ],
   prefix: "/uv/~/",
   encodeUrl: Ultraviolet.codec.xor.encode,
