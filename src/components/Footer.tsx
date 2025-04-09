@@ -17,7 +17,7 @@ export function Footer() {
         </p>
         <div class="flex items-center gap-5">
           <a
-            href="https://github.com/Radon-Games/Radon-Games"
+            href="https://github.com/VIN07grinder/Staar-Resources12345"
             target="_blank"
             class="transition-colors hover:text-accent-primary"
             aria-label="GitHub"
@@ -33,7 +33,7 @@ export function Footer() {
             <PiDiscordLogoBold />
           </a>
           <a
-            href="https://www.patreon.com/Radon_Games"
+            href="https://www.patreon.com"
             target="_blank"
             class="transition-colors hover:text-accent-primary"
             aria-label="Patreon"
@@ -41,7 +41,7 @@ export function Footer() {
             <PiPatreonLogoBold />
           </a>
           <a
-            href={`https://github.com/Radon-Games/Radon-Games/releases/tag/v${version}`}
+            href="https://github.com/VIN07grinder/Staar-Resources12345"
             target="_blank"
             class="flex items-center gap-2 hover:text-accent-primary"
             aria-label="Changelog"
