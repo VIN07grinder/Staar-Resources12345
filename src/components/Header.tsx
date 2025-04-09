@@ -83,7 +83,7 @@ export function Header() {
         </form>
         <Link href="/preferences" icon={PiGearBold} label="Preferences" />
         <Link
-          href="https://github.com/Radon-Games/Radon-Games"
+          href="https://github.com/VIN07grinder/Staar-Resources12345"
           icon={PiGithubLogoBold}
           label="GitHub"
         />
